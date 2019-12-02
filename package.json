@@ -1,6 +1,6 @@
 {
   "name": "laboratorio9",
-  "homepage": "https://Misplaced01.github.io/laboratorio9",
+  "homepage": "https://Misplaced01.github.io/reactTry",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +13,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://Misplaced01.github.io/laboratorio9",
+    "homepage": "https://Misplaced01.github.io/reactTry",
     "deploy" : "npm run build&&gh-pages -d build"
   },
   "eslintConfig": {
